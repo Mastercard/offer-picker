@@ -1,2 +1,2 @@
-# offerPicker
-offer picker optimal solution with dynamic programming
+# OfferPicker
+offer picker optimal solution with dynamic programming  
